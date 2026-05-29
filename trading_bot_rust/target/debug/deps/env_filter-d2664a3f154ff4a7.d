@@ -1,0 +1,10 @@
+c:\Users\sukac\Desktop\чет крутое\trading_bot_rust\target\debug\deps\env_filter-d2664a3f154ff4a7.d: C:\Users\sukac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\env_filter-1.0.1\src\lib.rs C:\Users\sukac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\env_filter-1.0.1\src\directive.rs C:\Users\sukac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\env_filter-1.0.1\src\filter.rs C:\Users\sukac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\env_filter-1.0.1\src\filtered_log.rs C:\Users\sukac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\env_filter-1.0.1\src\op.rs C:\Users\sukac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\env_filter-1.0.1\src\parser.rs
+
+c:\Users\sukac\Desktop\чет крутое\trading_bot_rust\target\debug\deps\libenv_filter-d2664a3f154ff4a7.rmeta: C:\Users\sukac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\env_filter-1.0.1\src\lib.rs C:\Users\sukac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\env_filter-1.0.1\src\directive.rs C:\Users\sukac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\env_filter-1.0.1\src\filter.rs C:\Users\sukac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\env_filter-1.0.1\src\filtered_log.rs C:\Users\sukac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\env_filter-1.0.1\src\op.rs C:\Users\sukac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\env_filter-1.0.1\src\parser.rs
+
+C:\Users\sukac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\env_filter-1.0.1\src\lib.rs:
+C:\Users\sukac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\env_filter-1.0.1\src\directive.rs:
+C:\Users\sukac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\env_filter-1.0.1\src\filter.rs:
+C:\Users\sukac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\env_filter-1.0.1\src\filtered_log.rs:
+C:\Users\sukac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\env_filter-1.0.1\src\op.rs:
+C:\Users\sukac\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\env_filter-1.0.1\src\parser.rs:

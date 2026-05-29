@@ -1,0 +1,60 @@
+[package]
+name = "trading_bot_rust"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+name = "trading_bot_rust"
+
+[[bin]]
+name = "bot_rest"
+path = "src/bin/bot_rest.rs"
+
+[[bin]]
+name = "bot_analyzer"
+path = "src/bin/bot_analyzer.rs"
+
+[[bin]]
+name = "simple_ws"
+path = "src/bin/simple_ws.rs"
+
+[[bin]]
+name = "final_bot"
+path = "src/bin/final_bot.rs"
+
+[[bin]]
+name = "orderbook_test"
+path = "src/bin/orderbook_test.rs"
+
+[[bin]]
+name = "three_factor_bot"
+path = "src/bin/three_factor_bot.rs"
+
+[[bin]]
+name = "ws_test"
+path = "src/bin/ws_test.rs"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+reqwest = { version = "0.11", features = ["json", "rustls-tls"] }
+tokio-tungstenite = { version = "0.26", features = ["rustls-tls-webpki-roots"] }
+rustls = "0.23"
+webpki-roots = "0.26"
+futures-util = "0.3"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+chrono = { version = "0.4", features = ["serde"] }
+log = "0.4"
+anyhow = "1"
+redis = { version = "0.24", features = ["tokio-comp", "aio", "json"] }
+urlencoding = "2.1"
+tonic = "0.11"
+prost = "0.12"
+env_logger = "0.11"
+native-tls = "0.2"
+http = "1.0"
+tungstenite = "0.26"
+prometheus = "0.13"
+lazy_static = "1.4"
+warp = "0.3"

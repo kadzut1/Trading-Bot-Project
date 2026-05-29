@@ -1,0 +1,13 @@
+project: trading_bot
+registry: data/registry.db
+provider: local
+online_store:
+  type: redis
+  connection_string: localhost:6379
+offline_store:
+  type: clickhouse
+  host: localhost
+  port: 8123
+  database: default
+  user: default
+  password: ''
